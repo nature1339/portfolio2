@@ -1,0 +1,11 @@
+i  fac
+1  fac = fac* i  = 1
+1 fac = 1*2 = 2
+2         2*3 = 6
+list = [1 2 6 ]
+
+1
+2
+
+for i in range(n_list):
+     fac = fac*fac[i]
